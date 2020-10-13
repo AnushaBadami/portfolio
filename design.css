@@ -1,0 +1,39 @@
+#header
+{
+	background-color:#e8f48c;
+	position:relative;
+	text-align:center;
+	padding-top:50px;
+	font-family:'Lucida Calligraphy';
+}
+
+#central
+{
+	font-family: 'Segoe Print';
+	font-size:20px;
+}
+
+#size2
+{
+	font-size:20px;
+}
+
+#skills
+{
+	background color:white;
+	text-align:left;
+	font-family:'Informal Roman';
+}
+
+#my interests
+{
+	font-family:'Segoe Print';
+}
+
+#footer
+{
+	background-color:#fdfd96;
+	text-align:left;
+	padding-bottom:50px;
+	font-family:'Forte';
+}
